@@ -2,7 +2,7 @@
 
 $host = "localhost";
 $username = "root";
-$password = "1234";
+$password = "";
 $database = "student_portal";
 
 $conn = new mysqli(
